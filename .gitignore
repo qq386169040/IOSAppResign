@@ -1,2 +1,5 @@
 target.ipa
 source
+ios-resign
+.DS_Store
+.idea

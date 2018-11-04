@@ -7,8 +7,6 @@ var provisionFileName = '';
 var appFilePath = './source/Payload';
 var bundleId = '';
 var bundleIdFix = '';
-//iPhone Developer: 386169040@qq.com (A3XD46C9GA)
-//iPhone Developer: binsheng zhang (BLNPDWQJDT)
 var cerName = '';
 
 "use strict";
